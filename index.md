@@ -6,5 +6,5 @@ This was made by Alexey Simakov so students could talk. When done typing name pr
 
 <iframe src="https://tlk.io/student-talk" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
 
-## Random games from Unblocked Games WTF("https://sites.google.com/site/unblockedgameswtf/")
+## Random games from Unblocked Games WTF https://sites.google.com/site/unblockedgameswtf/
 <iframe src="https://sites.google.com/site/unblockedgameswtf/" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
