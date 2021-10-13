@@ -5,7 +5,7 @@ to type message press your name.
 
 ## Voice Chat
 
-[Join](https://talky.io/simatalk), P.S If during lunch please turn your camera on too.
+<iframe src="https://talky.io/simatalk" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
 
 <div id="tlkio" data-channel="student-talk" data-theme="theme--minimal" style="width:100%;height:400;"></div><script async src="http://tlk.io/embed.js" type="text/javascript"></script>
 
