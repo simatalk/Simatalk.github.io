@@ -13,3 +13,6 @@ to type message press your name.
 
 ## Super Smash Bros from Scratch
 <iframe src="https://scratch.mit.edu/projects/318927435/embed" allowtransparency="true" width="1000" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+## Chess from Scratch
+<iframe src="https://scratch.mit.edu/projects/148769358/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
