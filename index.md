@@ -13,6 +13,6 @@ to type message press your name.
 <iframe src="https://tlk.io/student-talk" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
 
 ## Games
-<iframe src="https://scratch.mit.edu/projects/318927435/embed" allowtransparency="true" width="500" height="402" frameborder="0" scrolling="no" align="left" allowfullscreen></iframe>
+<iframe src="https://scratch.mit.edu/projects/318927435/embed" allowtransparency="true" width="300" height="402" frameborder="0" scrolling="no" align="left" allowfullscreen></iframe>
 
-<iframe src="https://scratch.mit.edu/projects/148769358/embed" allowtransparency="true" width="500" height="402" frameborder="0" scrolling="no" align="right" allowfullscreen></iframe>
+<iframe src="https://scratch.mit.edu/projects/148769358/embed" allowtransparency="true" width="300" height="402" frameborder="0" scrolling="no" align="right" allowfullscreen></iframe>
