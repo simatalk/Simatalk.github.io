@@ -12,8 +12,7 @@ to type message press your name.
 
 <iframe src="https://tlk.io/student-talk" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
 
-## Super Smash Bros from Scratch
+## Games
 <iframe src="https://scratch.mit.edu/projects/318927435/embed" allowtransparency="true" width="500" height="402" frameborder="0" scrolling="no" align="left" allowfullscreen></iframe>
 
-## Chess from Scratch
 <iframe src="https://scratch.mit.edu/projects/148769358/embed" allowtransparency="true" width="500" height="402" frameborder="0" scrolling="no" align="right" allowfullscreen></iframe>
