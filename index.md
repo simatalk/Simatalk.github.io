@@ -6,9 +6,8 @@
 This was made by Alexey Simakov so students could talk. When done typing name press "enter"
 to type message press your name.
 
-## And remember, Alexey is Sexy
+## And remember, Alexey is Sexy, and Zain is Pain
 
-zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain zain is pain 
 
 
 
