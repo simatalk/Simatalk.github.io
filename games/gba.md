@@ -1,1 +1,1 @@
-<iframe src="https://jsemu2.github.io/gba" width="100%" height="3200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://jsemu2.github.io/gba" width="100%" height="4000" frameborder="0" scrolling="no"></iframe>
