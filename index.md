@@ -6,7 +6,7 @@
 This was made by Alexey Simakov so students could talk. When done typing name press "enter"
 to type message press your name.
 
-## [Game Boy Advance Emulator Unblocked](https://jsemu2.github.io/gba/)
+## [Games](https://simatalk.github.io/games)
 
 
 
