@@ -6,7 +6,7 @@
 This was made by Alexey Simakov so students could talk. When done typing name press "enter"
 to type message press your name.
 
-## Zain is a simp
+## [https://jsemu2.github.io/gba](Game Boy Advance Emulator Unblocked)
 
 
 
