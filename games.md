@@ -8,3 +8,4 @@
 
 [Slope](https://simatalk.github.io/games/slope)
 
+[Tetris](https://simatalk.github.io/games/tetris)
