@@ -1,4 +1,6 @@
-# Games on this site (Unblocked
+# Games on this site (Unblocked)
+
+## [Home](https://simatalk.github.io)
 
 [Game Boy Advance Emulator](https://simatalk.github.io/games/gba)
 
