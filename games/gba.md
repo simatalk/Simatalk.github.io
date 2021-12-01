@@ -1,3 +1,4 @@
+# Game Boy Advance Emulator
 ## [Back to Games Menu](https://simatalk.github.io/games)
 
 ## How to use
