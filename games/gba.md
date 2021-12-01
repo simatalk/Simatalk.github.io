@@ -1,3 +1,5 @@
+## [Back to games menu](https://simatalk.github.io/games)
+
 ## How to use
 
 Scrolling: There is scrolling to access the actual games
