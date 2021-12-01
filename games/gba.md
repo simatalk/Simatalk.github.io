@@ -1,4 +1,4 @@
-## [Back to games menu](https://simatalk.github.io/games)
+## [Back to Games Menu](https://simatalk.github.io/games)
 
 ## How to use
 
