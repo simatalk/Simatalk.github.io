@@ -6,6 +6,8 @@
 
 [Laser Defender](https://simatalk.github.io/games/laserdefender)
 
+[Moto X3M](https://simatalk.github.io/games/motox3m)
+
 [Slope](https://simatalk.github.io/games/slope)
 
 [Tetris](https://simatalk.github.io/games/tetris)
