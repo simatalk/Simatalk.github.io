@@ -8,7 +8,7 @@ to type message press your name.
 
 ## [Games](https://simatalk.github.io/games)
 
-
+## [Proxy](https://simatalk.github.io/proxy)
 
 
 ## Chat
