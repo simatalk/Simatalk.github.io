@@ -1,3 +1,3 @@
 # Proxy Unblocked
 
-<iframe src="//crypto.stanford.edu/flashproxy/embed.html" width="80" height="15" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.apkonline.net/runapk/start-androidapk.html?app=android_blank" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
