@@ -14,4 +14,6 @@
 
 [Slope](https://simatalk.github.io/games/slope)
 
+[Super Smash Bros](https://simatalk.github.io/games/supersmash)
+
 [Tetris](https://simatalk.github.io/games/tetris)
