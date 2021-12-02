@@ -4,6 +4,8 @@
 
 [Flappy Angry Birds](https://simatalk.github.io/games/angryflap)
 
+[Flappy Bird](https://simatalk.github.io/games/flappybird)
+
 [Game Boy Advance Emulator](https://simatalk.github.io/games/gba)
 
 [Laser Defender](https://simatalk.github.io/games/laserdefender)
