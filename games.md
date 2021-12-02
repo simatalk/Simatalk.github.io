@@ -8,6 +8,8 @@
 
 [Game Boy Advance Emulator](https://simatalk.github.io/games/gba)
 
+[Google T-Rex](https://simatalk.github.io/games/trex)
+
 [Laser Defender](https://simatalk.github.io/games/laserdefender)
 
 [Moto X3M](https://simatalk.github.io/games/motox3m)
