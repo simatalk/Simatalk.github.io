@@ -17,3 +17,5 @@
 [Super Smash Bros](https://simatalk.github.io/games/supersmash)
 
 [Tetris](https://simatalk.github.io/games/tetris)
+
+[Wizard Run](https://simatalk.github.io/games/wizardrun)
