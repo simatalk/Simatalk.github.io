@@ -5,7 +5,7 @@
 
 The proxy is broken as of now. We are trying to fix it.
 
-## [V.I.P. Chat](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNmcrbE1LRDkzVG5tT24vcXd2UGJFWE9tNWJPU2t4TEdscERjem82WlllVHRLeDVJQ0hBSm1QanBnbkdPbGIxOUkzQktDTFlGdlMwUWR0d0tFVWFTQWN6eDhnPT0iLCJpIjoiWkk5NFo4VjZaQjVGdi9TUyJ9)
+## [V.I.P. Chat](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiQUZET2c2aE1POTVzZzN4eUJkOWF5V21RRlpEN2RUNjB0ZTVvNE93TEJlTlViUUZIRnd0VnpOQkZxVDh2SXlRZUdsN25oSjdBZmF1elFXTy9SWVd4bWJjQ2t3PT0iLCJpIjoiU2NwZkc0dUZ6VDVBTTZ1RSJ9)
 
 ## Welcome to Simatalk
 
