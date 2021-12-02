@@ -1,6 +1,10 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9413704551073936"
      crossorigin="anonymous"></script>
 
+# Announcements
+
+The proxy is broken as of now. We are trying to fix it.
+
 ## Welcome to Simatalk
 
 This was made by Alexey Simakov so students could talk. When done typing name press "enter"
