@@ -5,6 +5,8 @@
 
 The proxy is broken as of now. We are trying to fix it.
 
+## [V.I.P. Chat](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNmcrbE1LRDkzVG5tT24vcXd2UGJFWE9tNWJPU2t4TEdscERjem82WlllVHRLeDVJQ0hBSm1QanBnbkdPbGIxOUkzQktDTFlGdlMwUWR0d0tFVWFTQWN6eDhnPT0iLCJpIjoiWkk5NFo4VjZaQjVGdi9TUyJ9)
+
 ## Welcome to Simatalk
 
 This was made by Alexey Simakov so students could talk. When done typing name press "enter"
