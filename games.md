@@ -18,6 +18,8 @@
 
 [Slope](https://simatalk.github.io/games/slope)
 
+[Street Fighter](https://simatalk.github.io/games/streetfight)
+
 [Super Smash Bros](https://simatalk.github.io/games/supersmash)
 
 [Tetris](https://simatalk.github.io/games/tetris)
