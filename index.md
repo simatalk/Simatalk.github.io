@@ -1,5 +1,4 @@
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9413704551073936"
-     crossorigin="anonymous"></script>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 # Announcements
 
