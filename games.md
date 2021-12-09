@@ -2,6 +2,8 @@
 
 ## [Home](https://simatalk.github.io)
 
+[Doodle Jump](https://simatalk.github.io/games/doodlejump)
+
 [Flappy Angry Birds](https://simatalk.github.io/games/angryflap)
 
 [Flappy Bird](https://simatalk.github.io/games/flappybird)
