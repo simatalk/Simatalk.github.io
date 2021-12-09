@@ -1,6 +1,7 @@
 # Announcements
 
 The proxy is broken as of now. We are trying to fix it.
+Also there is now a ZAIN ZONE click [here](simatalk.github.io/zainiszain)
 
 # People visited
 
