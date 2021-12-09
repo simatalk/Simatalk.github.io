@@ -4,6 +4,8 @@
 
 [Doodle Jump](https://simatalk.github.io/games/doodlejump)
 
+[Duck Shoot](https://simatalk.github.io/games/duckshoot)
+
 [Flappy Angry Birds](https://simatalk.github.io/games/angryflap)
 
 [Flappy Bird](https://simatalk.github.io/games/flappybird)
