@@ -2,6 +2,12 @@
 
 The proxy is broken as of now. We are trying to fix it.
 
+# People visited
+
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7908514&style=0001&nbdigits=5&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>                 
+
 ## [V.I.P. Chat](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiQUZET2c2aE1POTVzZzN4eUJkOWF5V21RRlpEN2RUNjB0ZTVvNE93TEJlTlViUUZIRnd0VnpOQkZxVDh2SXlRZUdsN25oSjdBZmF1elFXTy9SWVd4bWJjQ2t3PT0iLCJpIjoiU2NwZkc0dUZ6VDVBTTZ1RSJ9)
 
 ## Welcome to Simatalk
