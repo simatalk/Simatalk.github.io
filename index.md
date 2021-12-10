@@ -3,6 +3,12 @@
 The proxy is broken as of now. We are trying to fix it.
 Since the prozy is broken there is an alternative, go to [watchparty.me](https://watchparty.me) and launch a V browser, make an account and BOOM endless surfing, unblocked everything.
 
+FOR UNBLOCKED YOUTUBE FOLLOW STEPS:
+1. Go to this [site](https://holy-asian-unblock.herokuapp.com/yt.html)
+2. Using the site browse the video you want DO NOT CLICK IT
+3. Copy the link address of desired video
+4. Now ad PI after the youtube link Ex. https://www.youtube.com/watch?v=dh8JEseSSDA into https://www.youtubepi.com/watch?v=dh8JEseSSDA
+
 
 Also there is now a ZAIN ZONE click [here](simatalk.github.io/zainiszain)
 
