@@ -1,6 +1,7 @@
 # Announcements
 
 The proxy is broken as of now. We are trying to fix it.
+Since the prozy is broken there is an alternative, go to [watchparty.me](https://watchparty.me) and launch a V browser, make an account and boom endless surfing.
 Also there is now a ZAIN ZONE click [here](simatalk.github.io/zainiszain)
 
 # People visited
