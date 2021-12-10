@@ -1,7 +1,7 @@
 # Announcements
 
 The proxy is broken as of now. We are trying to fix it.
-Since the prozy is broken there is an alternative, go to [watchparty.me](https://watchparty.me) and launch a V browser, make an account and BOOM endless surfing, unblocked everything.
+Since the proxy is broken there is an alternative, go to [watchparty.me](https://watchparty.me) and launch a V browser, make an account and BOOM endless surfing, unblocked everything.
 
 FOR UNBLOCKED YOUTUBE FOLLOW STEPS:
 1. Go to this [site](https://holy-asian-unblock.herokuapp.com/yt.html)
@@ -12,7 +12,7 @@ FOR UNBLOCKED YOUTUBE FOLLOW STEPS:
 6. Download the video in any format, on the site it is VERY unsecure be careful while browsing
 
 
-Also there is now a ZAIN ZONE click [here](simatalk.github.io/zainiszain)
+Also there is now a ZAIN ZONE click [here](https://simatalk.github.io/zainiszain)
 
 # People visited
 
