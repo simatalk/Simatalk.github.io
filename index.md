@@ -8,6 +8,7 @@ FOR UNBLOCKED YOUTUBE FOLLOW STEPS:
 2. Using the site browse the video you want DO NOT CLICK IT
 3. Copy the link address of desired video
 4. Now ad PI after the youtube link Ex. https://www.youtube.com/watch?v=boboobo into https://www.youtubepi.com/watch?v=boboobo
+5. Download the video in any format, on the site it is VERY unsecure be careful while browsing
 
 
 Also there is now a ZAIN ZONE click [here](simatalk.github.io/zainiszain)
