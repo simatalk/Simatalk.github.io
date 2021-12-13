@@ -1,5 +1,6 @@
-# Announcements
+# ₳̷̛̜̂͆̒Ⱡ̸͈̼̯̼̮͂ͅͅɆ̸̡̜̘̤̝̩̈́̾̀̃̋̇̇͊̈́Ӿ̸̧̜̀̓̓̿̔̂Ɇ̵̢̩̤̤͐̾Ɏ̴̙͎͈̺͆̐̈́͌̎͛̕̚ ̴̻̫̜̋̆͘ł̶͓̃͝₴̶͚͕͈̑͆̅̊̑͒͘̚̚ͅ ̶̡͓̦̹̞͛̓̌̒̎͋̆ͅ฿̵̟́̅͛̀̓̔͊̇̄̀ł̸̧̲̼̰̱̬̝̬̗̳̀͆̍̌͛̐̑͌͋͘₲̵͎̉̈́̏̆̊̚͠ͅ ̵͎̰̐̉̄฿̵̖͙͈̺̭͈̳͛̓͂̌Ɽ̷̮̦͓̬̺̤͚̋₳̴̥̳̙̺͈̩̣̗̈́̏̍͆̄ł̵͔̑̌̓̾̉̈́̂₦̴͎̲͓͈̙̓͑̈́̋̕
 
+# ₳̵̰̬̭̥̟͕͔̬͎̾͝₦̵͉͈̟̤̀̒̍͊̽́͂͆͘̕₦̸̝̭̠̋̾Ø̸̠̫̈́̀̐͂̽̋Ʉ̸̻͎̫̰̮̒̽͌̆ͅ₦̸̳̘̘̒̊̓͛̔̍́͗͋₵̴̮̤̼͉̠̩͈̫̱̝̀̔̏̉̈̋̇̕̕Ɇ̶̦͔̓̌₥̶͙̅̐͂̍̍̈́̊̕͘̕Ɇ̵̨̛͔̗̠̝̫̑͊̈̈́̽͋̽₦̷̝̰̾̎̎̈́̾̾͒͒͘₮̶̲̲̲͕̥͙͊̍̅͗̈́͝₴̸͔́̇͂͆̓̃̚
 The proxy is broken as of now. We are trying to fix it.
 Since the proxy is broken there is an alternative, go to [watchparty.me](https://watchparty.me) and launch a V browser, make an account and BOOM endless surfing, unblocked everything.
 
@@ -14,18 +15,17 @@ FOR UNBLOCKED YOUTUBE FOLLOW STEPS:
 
 Also there is now a ZAIN ZONE click [here](https://simatalk.github.io/zainiszain)
 
-# People visited
+# ₱̶̧̩̜͇͕͙̘͕̩̌̕Ɇ̶̯͇̥̮̯̣̩̦̫͖̏̎̏̎͋̀̓̅͒̀Ø̵̨͖̲̥̽͗₱̸̦̑́̐̽Ⱡ̷̨̮̹̜̄͘Ɇ̴̛͈̹͔̩̥̰̈̈́͌̏̌́̾̚͜͝ ̷̠̖̘̯̳̟͖̈́̋͒̃̑̀V̵̧̢̼͍̼͑̓̃̈́͒̃̒͠͝ͅł̵͕͓͚̗͖̌̈́̐̓͛₴̶̦̙͙̤̤̼͇͍͛̑̅ł̵̧̨̨̛̜̼̟̲̪͓͚̎͝₮̶̛̫͖͖̩̳̱̥̥̪͍̏̍͛̑̊̍̔Ɇ̵̨͎̥̫̥̝̳̤̲͊͂̑͋͑Đ̴̮̊̊̾͋̈
 
 <a href="https://www.freecounterstat.com" title="free hits counter"><img src="https://counter7.stat.ovh/private/freecounterstat.php?c=3dp2rbctty8umh8wbhkmjntwasf1cb2u" border="0" title="free hits counter" alt="free hits counter"></a> 
 
-## [V.I.P. Chat](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiQUZET2c2aE1POTVzZzN4eUJkOWF5V21RRlpEN2RUNjB0ZTVvNE93TEJlTlViUUZIRnd0VnpOQkZxVDh2SXlRZUdsN25oSjdBZmF1elFXTy9SWVd4bWJjQ2t3PT0iLCJpIjoiU2NwZkc0dUZ6VDVBTTZ1RSJ9)
+## [V҉.҉ł҉.҉₱҉.҉ ҉₵҉Ⱨ҉₳҉₮҉](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiQUZET2c2aE1POTVzZzN4eUJkOWF5V21RRlpEN2RUNjB0ZTVvNE93TEJlTlViUUZIRnd0VnpOQkZxVDh2SXlRZUdsN25oSjdBZmF1elFXTy9SWVd4bWJjQ2t3PT0iLCJpIjoiU2NwZkc0dUZ6VDVBTTZ1RSJ9)
 
-## Welcome to Simatalk
-
+## Welcome to ₴̷̟̮͕͚͓͙̫̦̟̌̍̀ł̶̛̗̿̃̀̀̈͜₥̸̨̳̹͔̝̭̭̺̿͘͜₳̸̡̦͇͙͓̜͙̭̠̼́̀͑́̈́̏̏̏₮̸̡̛̦̱̰̹̪͖̞̑̇̀͆̾͋͒͌₳̴̝̓̐͌̀̒̇̾̀͋͘Ⱡ̵̢̼̣̞́͂̒͌͑͝͝₭̵͉̈̒͗̊̅͝
 This was made by Alexey Simakov so students could talk. When done typing name press "enter"
 to type message press your name.
 
-## [Games](https://simatalk.github.io/games)
+## [₲̶̞̫̽̌̄̑͌̎̓̈ͅ₳̵̨̜̘̀₥̶͕͍̣͚̅̇̂̌͊͛̍͋̕͝Ɇ̸͍̱̩̝͎͆̓͘₴̵̢̫͕̥͓̉̇͌̋̾̒̚̚ͅ](https://simatalk.github.io/games)
 
 ## [Proxy](https://simatalk.github.io/unblockedweb)
 
