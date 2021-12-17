@@ -12,6 +12,8 @@
 
 [Bomberman Tournament (GBA)](https://simatalk.github.io/games/bombermantour)
 
+[Croket! - Yume no Banker Survival! (GBA)](https://simatalk.github.io/games/croket)
+
 [Bubble Bobble: Old and New (GBA)](https://simatalk.github.io/games/bubbob)
 
 [Doodle Jump](https://simatalk.github.io/games/doodlejump)
