@@ -26,6 +26,8 @@
 
 [Doodle Jump](https://simatalk.github.io/games/doodlejump)
 
+[Dragon Ball Z - Supersonic Warriors (GBA)](https://simatalk.github.io/games/dragonballz)
+
 [Duck Shoot](https://simatalk.github.io/games/duckshoot)
 
 [Flappy Angry Birds](https://simatalk.github.io/games/angryflap)
