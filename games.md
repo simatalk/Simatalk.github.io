@@ -8,7 +8,9 @@
 
 [Aladdin (GBA)](https://simatalk.github.io/games/aladdin)
 
-[Bomber Max 2 (GBA)](https://simatalk.github.io/games/bombermax2)
+[Bomberman Max 2 (GBA)](https://simatalk.github.io/games/bombermax2)
+
+[Bomberman Tournament (GBA)](https://simatalk.github.io/games/bombermantour)
 
 [Doodle Jump](https://simatalk.github.io/games/doodlejump)
 
