@@ -2,7 +2,7 @@
 
 ## [Home](https://simatalk.github.io)
 
-[Advanced Wars (GBA)](https://simatalk.github.io/advancewar)
+[Advanced Wars (GBA)](https://simatalk.github.io/games/advancewar)
 
 [Doodle Jump](https://simatalk.github.io/games/doodlejump)
 
