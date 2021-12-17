@@ -14,7 +14,9 @@
 
 [Croket! - Yume no Banker Survival! (GBA)](https://simatalk.github.io/games/croket)
 
-[Croket! 2 - Yami no Bank to Banqueen! (GBA)](https://simatalk.github.io/games/croket2)
+[Croket! 2 - Yami no Bank to Banqueen (GBA)](https://simatalk.github.io/games/croket2)
+
+[Croket! 3 - Granu Oukoku no Nazo](https://simatalk.github.io/games/croket3)
 
 [Bubble Bobble: Old and New (GBA)](https://simatalk.github.io/games/bubbob)
 
