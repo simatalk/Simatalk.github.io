@@ -10,8 +10,6 @@
 
 [Flappy Bird](https://simatalk.github.io/games/flappybird)
 
-[Game Boy Advance Emulator](https://simatalk.github.io/games/gba)
-
 [Google T-Rex](https://simatalk.github.io/games/trex)
 
 [Laser Defender](https://simatalk.github.io/games/laserdefender)
