@@ -22,6 +22,8 @@
 
 [Croket! 4 - Bank no Mori no Mamorigami (GBA)](https://simatalk.github.io/games/croket4)
 
+[Digimon Racing](https://simatalk.github.io/games/digimonrac)
+
 [Doodle Jump](https://simatalk.github.io/games/doodlejump)
 
 [Duck Shoot](https://simatalk.github.io/games/duckshoot)
