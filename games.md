@@ -4,6 +4,8 @@
 
 [Advanced Wars (GBA)](https://simatalk.github.io/games/advancewar)
 
+[Advanced Wars 2 (GBA)](https://simatalk.github.io/games/advancewar2)
+
 [Doodle Jump](https://simatalk.github.io/games/doodlejump)
 
 [Duck Shoot](https://simatalk.github.io/games/duckshoot)
