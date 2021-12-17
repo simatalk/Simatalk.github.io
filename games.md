@@ -12,15 +12,15 @@
 
 [Bomberman Tournament (GBA)](https://simatalk.github.io/games/bombermantour)
 
+[Bubble Bobble: Old and New (GBA)](https://simatalk.github.io/games/bubbob)
+
 [Croket! - Yume no Banker Survival! (GBA)](https://simatalk.github.io/games/croket)
 
 [Croket! 2 - Yami no Bank to Banqueen (GBA)](https://simatalk.github.io/games/croket2)
 
-[Croket! 3 - Granu Oukoku no Nazo](https://simatalk.github.io/games/croket3)
+[Croket! 3 - Granu Oukoku no Nazo (GBA)](https://simatalk.github.io/games/croket3)
 
-[Croket! 4 - Bank no Mori no Mamorigami](https://simatalk.github.io/games/croket4)
-
-[Bubble Bobble: Old and New (GBA)](https://simatalk.github.io/games/bubbob)
+[Croket! 4 - Bank no Mori no Mamorigami (GBA)](https://simatalk.github.io/games/croket4)
 
 [Doodle Jump](https://simatalk.github.io/games/doodlejump)
 
