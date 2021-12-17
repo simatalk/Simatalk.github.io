@@ -18,6 +18,8 @@
 
 [Croket! 3 - Granu Oukoku no Nazo](https://simatalk.github.io/games/croket3)
 
+[Croket! 4 - Bank no Mori no Mamorigami](https://simatalk.github.io/games/croket4)
+
 [Bubble Bobble: Old and New (GBA)](https://simatalk.github.io/games/bubbob)
 
 [Doodle Jump](https://simatalk.github.io/games/doodlejump)
