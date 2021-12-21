@@ -1,6 +1,8 @@
 # ₳ⱠɆӾɆɎ ł₴ ฿ł₲ ฿Ɽ₳ł₦
 
 # Announcements
+New message encrypter/decrypter! Trade notes undetected.
+
 The proxy is up and working!
 If the proxy does not work there is an alternative, go to [watchparty.me](https://watchparty.me) and launch a V browser, make an account and BOOM endless surfing, unblocked everything.
 
@@ -16,6 +18,8 @@ FOR UNBLOCKED YOUTUBE FOLLOW STEPS:
 
 
 Also there is now a ZAIN ZONE click [here](https://simatalk.github.io/zainiszain)
+
+# [Message Encrypter/Decrypter](https://simatalk.github.io/decipher)
 
 # People visited
 
