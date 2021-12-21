@@ -19,13 +19,13 @@ FOR UNBLOCKED YOUTUBE FOLLOW STEPS:
 
 Also there is now a ZAIN ZONE click [here](https://simatalk.github.io/zainiszain)
 
-# [Message Encrypter/Decrypter](https://simatalk.github.io/decipher)
-
 # People visited
 
 <a href="https://www.freecounterstat.com" title="free hits counter"><img src="https://counter7.stat.ovh/private/freecounterstat.php?c=3dp2rbctty8umh8wbhkmjntwasf1cb2u" border="0" title="free hits counter" alt="free hits counter"></a> 
 
 ## [V.I.P. Chat](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiQUZET2c2aE1POTVzZzN4eUJkOWF5V21RRlpEN2RUNjB0ZTVvNE93TEJlTlViUUZIRnd0VnpOQkZxVDh2SXlRZUdsN25oSjdBZmF1elFXTy9SWVd4bWJjQ2t3PT0iLCJpIjoiU2NwZkc0dUZ6VDVBTTZ1RSJ9)
+
+## [Message Encrypter/Decrypter](https://simatalk.github.io/decipher)
 
 ## Welcome to Simatalk
 This was made by Alexey Simakov so students could talk. When done typing name press "enter"
