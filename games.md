@@ -44,6 +44,8 @@
 
 [Moto X3M Pool Party](https://simatalk.github.io/games/motox3mpool)
 
+[Shell Shockers](https://simatalk.github.io/games/shellshockers)
+
 [Slope](https://simatalk.github.io/games/slope)
 
 [Street Fighter](https://simatalk.github.io/games/streetfight)
