@@ -3,6 +3,8 @@
 # Announcements
 YO WE ADDED SHELL SHOCKERS, CHECK THE GAMES SECTION
 
+For ALL of the GBA games go to [https://jsemu2.github.io/gba](https://jsemu2.github.io/gba)
+
 New message encrypter/decrypter! Trade notes undetected.
 
 The proxy is up and working!
