@@ -8,6 +8,8 @@ New message encrypter/decrypter! Trade notes undetected.
 The proxy is up and working!
 If the proxy does not work there is an alternative, go to [watchparty.me](https://watchparty.me) and launch a V browser, make an account and BOOM endless surfing, unblocked everything.
 
+DISCLAIMER: All ads in-game are not our advertisements.
+
 ## زين شاذ
 
 ## Unblocked Youtube [here](https://nghenhachay.net/)
