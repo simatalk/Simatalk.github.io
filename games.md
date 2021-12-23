@@ -2,6 +2,8 @@
 
 ## [Home](https://simatalk.github.io)
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeD16XRlAxcJXnL8OkVW8-3uYmjKJp8aZ1t8Bv_klxVu8u0lg/viewform?embedded=true" width="640" height="437" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 [Advanced Wars (GBA)](https://simatalk.github.io/games/advancewar)
 
 [Advanced Wars 2 (GBA)](https://simatalk.github.io/games/advancewar2)
