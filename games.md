@@ -5,8 +5,6 @@
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeD16XRlAxcJXnL8OkVW8-3uYmjKJp8aZ1t8Bv_klxVu8u0lg/viewform?embedded=true" scrolling="no" width="640" height="437" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 # ㅤ
-# ㅤ
-# ㅤ
 
 [Advanced Wars (GBA)](https://simatalk.github.io/games/advancewar)
 
