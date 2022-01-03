@@ -16,6 +16,8 @@ DISCLAIMER: All ads in-game are not our advertisements.
 
 ## Unblocked Youtube [here](https://nghenhachay.net/)
 ## WARNING: The Unblocked Youtube Site has been Hacked and contains Malicious ads, DO NOT CLICK THEM
+## FAQ: The Video is still blocked when I click it?
+If the video is still blocked, download it and play it from files.
 
 # People visited
 
