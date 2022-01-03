@@ -18,6 +18,9 @@ For Adblocker make a bookmark and put this in the URL section:
 
 javascript:var st = confirm("strict adblocker?"); if(st){var invisible = document.createElement("style"); invisible.innerHTML = "iframe{display:none} embed{display:none} object{display:none} frame{display:none}"; document.body.appendChild(invisible); setInterval(function(){var embeds = document.querySelectorAll("iframe, embed, frame, object"); for(i = 0; i < embeds.length; i++){embeds[i].remove()}}, 500)} else{var adblock = document.createElement("style"); adblock.innerHTML = "[src*=adserver] {display: none; } [src*=adlinks] {display: none;} [src*=adtech] {display:none;} [id*=google_ads] { display: none; } [src*=doubleclick.net] { display:none;} [src*=googlead] { display: none; } [href*=googlead] { display:none;} [src*=googlesyndication] { display: none;} [src*=ads.] { display: none; } [src*=.ad] {display: none; } [src*=ad.] {display:none;} [src*=adsmart] { display:none;}"; document.body.appendChild(adblock)} if(st){var elements = document.body.querySelectorAll("*"); for(i2 = 0; i2 < elements.length; i2++){if(elements[i2].id.includes("google_ads_iframe")){elements[i2].remove()}}} var x = document.getElementsByClassName("video-stream html5-main-video")[0]; function videoblock() { if(x.src.includes("pltype=adhost")) { x.currentTime = 999999999; }} setInterval(videoblock, 10)
 
+
+Then Click the Bookmark you made and all your ads are blocked.
+
 ## Unblocked Youtube [here](https://nghenhachay.net/)
 ## WARNING: The Unblocked Youtube Site has been Hacked and contains Malicious ads, DO NOT CLICK THEM
 ## FAQ: The Video is still blocked when I click it?
