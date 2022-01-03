@@ -23,7 +23,7 @@ javascript:var st = confirm("strict adblocker?"); if(st){var invisible = documen
 Then Click the Bookmark you made and all your ads are blocked.
 
 ## Unblocked Youtube [here](https://nghenhachay.net/)
-## WARNING: The Unblocked Youtube Site has been Hacked and contains Malicious ads, DO NOT CLICK THEM
+## WARNING: The Unblocked Youtube Site has been Hacked and contains Malicious ads, DO NOT CLICK THEM, IT IS HIGHLY RECOMMENDED THAT YOU USE OUR ADBLOCK BOOKMARKLET
 ## FAQ: The Video is still blocked when I click it?
 If the video is still blocked, download it and play it from files.
 
