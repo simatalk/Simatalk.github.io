@@ -2,6 +2,7 @@
 To select double click code
 To enable these click the bookmarklet
 
+## [Home](https://simatalk.github.io)
 
 ## Adblock
 To disable refresh page
