@@ -50,6 +50,8 @@
 
 [Shell Shockers](https://simatalk.github.io/games/shellshockers)
 
+[Slither.io](https://simatalk.github.io/games/slitherio)
+
 [Slope](https://simatalk.github.io/games/slope)
 
 [Street Fighter](https://simatalk.github.io/games/streetfight)
