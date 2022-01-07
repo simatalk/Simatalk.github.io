@@ -2,8 +2,7 @@
 
 ## [Home](https://simatalk.github.io)
 
-
-# ㅤ
+## If you really want some unblocked games, heres my recommendation [https://zato.ga/app/](https://zato.ga/app/)
 
 [Advanced Wars (GBA)](https://simatalk.github.io/games/advancewar)
 
