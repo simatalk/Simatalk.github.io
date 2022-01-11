@@ -1,7 +1,7 @@
 # ₳ⱠɆӾɆɎ ł₴ ฿ł₲ ฿Ɽ₳ł₦
 
 # Announcements
-Secret Blookit Hacks, Use wiseley, I GOT A PASSWORD [here](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNWcyZUpwSkJBMWppdWs1Qk54aHVoNmhGaXk1SE1aQTN2ZkNmSTYrdGJ2V1RHVVdjb3FGQjhOUFA0U3VlZEhNSlcxd1VRQWEwZWU3dHdVRWZHRE4wNUNFLyIsImkiOiJPb1J6a2lLbFcyZTNLUkJMIn0=)
+Secret Blookit Hacks, Use wiseley, I GOT A PASSWORD [here](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNWcyZUpwSkJBMWppdWs1Qk54aHVoNmhGaXk1SE1aQTN2ZkNmSTYrdGJ2V1RHVVdjb3FGQjhOUFA0U3VlZEhNSlcxd1VRQWEwZWU3dHdVRWZHRE4wNUNFLyIsImkiOiJPb1J6a2lLbFcyZTNLUkJMIn0=) import the bookmark
 
 YO WE ADDED SHELL SHOCKERS, CHECK THE GAMES SECTION
 
