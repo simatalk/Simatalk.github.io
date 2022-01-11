@@ -1,4 +1,4 @@
-# Simatalk.github.io
+# What [Simatalk](https://simatalk.github.io) can do
 ## Does your school block everything? Like games, messaging apps, and doesn't allow note passing? Then look no further!
 For your note passing we have a message encrypter, so no one knows what your saying!
 For games, we got plenty and there's gonna be more!
