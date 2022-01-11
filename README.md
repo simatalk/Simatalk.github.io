@@ -6,4 +6,8 @@ Messaging? Well we got a chat right inside the damn site!
 Also a new proxy will be upcoming, so you can get anything unblocked anonymously!
 ## Hacks
 We have bookmarklet hacks! and for a lucky person everyday they get to have access to the overpowered blooket hacks.
-Hope you have fun with this new sight! Make sure the school doesn't find out!
+Hope you have fun with this new site! Make sure the school doesn't find out!
+
+## Useful Bookmarklets
+Why does the school block these useful things? I don't know! But we got some unblocked bookmarks for you!
+We have Inspect, Adblock, JS console, and much more!
