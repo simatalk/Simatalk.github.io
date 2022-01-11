@@ -1,6 +1,8 @@
 # ₳ⱠɆӾɆɎ ł₴ ฿ł₲ ฿Ɽ₳ł₦
 
 # Announcements
+Secret Blookit Hacks, Use wiseley, I GOT A PASSWORD [here](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNWcyZUpwSkJBMWppdWs1Qk54aHVoNmhGaXk1SE1aQTN2ZkNmSTYrdGJ2V1RHVVdjb3FGQjhOUFA0U3VlZEhNSlcxd1VRQWEwZWU3dHdVRWZHRE4wNUNFLyIsImkiOiJPb1J6a2lLbFcyZTNLUkJMIn0=)
+
 YO WE ADDED SHELL SHOCKERS, CHECK THE GAMES SECTION
 
 For ALL of the GBA games go to [https://jsemu2.github.io/gba](https://jsemu2.github.io/gba)
