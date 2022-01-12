@@ -38,6 +38,7 @@ to type message press your name.
 
 ## [Proxy](https://simatalk.github.io/unblockedweb)
 
+## [Risky Unblock Everything, All your answers](https://superuser.com/questions/811404/remove-enterprise-enrollment-from-chrome-os)
 
 ## Chat
 
