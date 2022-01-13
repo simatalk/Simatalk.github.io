@@ -1,16 +1,15 @@
 # ₳ⱠɆӾɆɎ ł₴ ฿ł₲ ฿Ɽ₳ł₦
 
 # Announcements
-Secret Blookit Hacks, Use wisely, I GOT A PASSWORD [here](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNWcyZUpwSkJBMWppdWs1Qk54aHVoNmhGaXk1SE1aQTN2ZkNmSTYrdGJ2V1RHVVdjb3FGQjhOUFA0U3VlZEhNSlcxd1VRQWEwZWU3dHdVRWZHRE4wNUNFLyIsImkiOiJPb1J6a2lLbFcyZTNLUkJMIn0=) import the bookmark
+Discord Unblocked here: [https://www.apkonline.net/runapk/start-androidapk.html?app=android_blank&apk=com.discord.apk](https://www.apkonline.net/runapk/start-androidapk.html?app=android_blank&apk=com.discord.apk)
+
+Secret Blooket Hacks, Use wisely, I GOT A PASSWORD [here](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNWcyZUpwSkJBMWppdWs1Qk54aHVoNmhGaXk1SE1aQTN2ZkNmSTYrdGJ2V1RHVVdjb3FGQjhOUFA0U3VlZEhNSlcxd1VRQWEwZWU3dHdVRWZHRE4wNUNFLyIsImkiOiJPb1J6a2lLbFcyZTNLUkJMIn0=) import the bookmark
 
 YO WE ADDED SHELL SHOCKERS, CHECK THE GAMES SECTION
 
 For ALL of the GBA games go to [https://jsemu2.github.io/gba](https://jsemu2.github.io/gba)
 
 New message encrypter/decrypter! Trade notes undetected.
-
-The proxy is up and working!
-If the proxy does not work there is an alternative, go to [watchparty.me](https://watchparty.me) and launch a V browser, make an account and BOOM endless surfing, unblocked everything.
 
 DISCLAIMER: All ads in-game are not our advertisements.
 
