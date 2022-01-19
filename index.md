@@ -1,6 +1,8 @@
 # ₳ⱠɆӾɆɎ ł₴ ฿ł₲ ฿Ɽ₳ł₦
 
 # Announcements
+Bored, Well we just added a blooket game finder! Play in some random classroom.
+
 Discord Unblocked here: [https://www.apkonline.net/runapk/start-androidapk.html?app=android_blank&apk=com.discord.apk](https://www.apkonline.net/runapk/start-androidapk.html?app=android_blank&apk=com.discord.apk)
 
 Secret Blooket Hacks, Use wisely, I GOT A PASSWORD [here](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNWcyZUpwSkJBMWppdWs1Qk54aHVoNmhGaXk1SE1aQTN2ZkNmSTYrdGJ2V1RHVVdjb3FGQjhOUFA0U3VlZEhNSlcxd1VRQWEwZWU3dHdVRWZHRE4wNUNFLyIsImkiOiJPb1J6a2lLbFcyZTNLUkJMIn0=) import the bookmark
@@ -26,6 +28,8 @@ If the video is still blocked, download it and play it from files.
 <a href="https://www.freecounterstat.com" title="free hits counter"><img src="https://counter7.stat.ovh/private/freecounterstat.php?c=3dp2rbctty8umh8wbhkmjntwasf1cb2u" border="0" title="free hits counter" alt="free hits counter"></a> 
 
 ## [V.I.P. Chat](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiQUZET2c2aE1POTVzZzN4eUJkOWF5V21RRlpEN2RUNjB0ZTVvNE93TEJlTlViUUZIRnd0VnpOQkZxVDh2SXlRZUdsN25oSjdBZmF1elFXTy9SWVd4bWJjQ2t3PT0iLCJpIjoiU2NwZkc0dUZ6VDVBTTZ1RSJ9)
+
+## [Blooket Game Finder](https://simatalk.github.io/blooketgamefinder)
 
 ## [Message Encrypter/Decrypter](https://simatalk.github.io/decipher)
 
