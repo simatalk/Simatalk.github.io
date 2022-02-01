@@ -1,6 +1,8 @@
 # ₳ⱠɆӾɆɎ ł₴ ฿ł₲ ฿Ɽ₳ł₦
 
 # Announcements
+The proxy is up and working!
+
 Bored, Well we just added a blooket game finder! Play in some random classroom.
 
 Discord Unblocked here: [https://www.apkonline.net/runapk/start-androidapk.html?app=android_blank&apk=com.discord.apk](https://www.apkonline.net/runapk/start-androidapk.html?app=android_blank&apk=com.discord.apk)
@@ -10,8 +12,6 @@ Secret Blooket Hacks, Use wisely, I GOT A PASSWORD [here](https://jstrieb.github
 YO WE ADDED SHELL SHOCKERS, CHECK THE GAMES SECTION
 
 For ALL of the GBA games go to [https://jsemu2.github.io/gba](https://jsemu2.github.io/gba)
-
-New message encrypter/decrypter! Trade notes undetected.
 
 DISCLAIMER: All ads in-game are not our advertisements.
 
