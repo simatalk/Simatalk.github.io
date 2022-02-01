@@ -1,2 +1,2 @@
 # Proxy Unblocked
-## Click [Here!](http://simatalk.rf.gd/public/)
+## Click [Here!](https://replit.com/@AidenKrystoff/Web-Proxy)
