@@ -18,6 +18,7 @@ DISCLAIMER: All ads in-game are not our advertisements.
 ## [Useful Bookmarks](https://simatalk.github.io/bookmarks)
 Includes ADBLOCK and much more
 
+## [Chat Maker](https://simatlkchattst.simatalk.repl.co/)
 ## Unblocked Youtube [here](https://nghenhachay.net/)
 ## WARNING: The Unblocked Youtube Site has been Hacked and contains Malicious ads, DO NOT CLICK THEM, IT IS HIGHLY RECOMMENDED THAT YOU USE OUR ADBLOCK BOOKMARKLET
 ## FAQ: The Video is still blocked when I click it?
