@@ -5,7 +5,7 @@ The proxy is up and working!
 
 Bored, Well we just added a blooket game finder! Play in some random classroom.
 
-Discord Unblocked here: [https://www.apkonline.net/runapk/start-androidapk.html?app=android_blank&apk=com.discord.apk](https://www.apkonline.net/runapk/start-androidapk.html?app=android_blank&apk=com.discord.apk)
+Discord Unblocked here: [click](https://translate.google.com/translate?sl=de&tl=en&hl=en&u=https://discord.com/app/&client=webapp)
 
 Secret Blooket Hacks, Use wisely, I GOT A PASSWORD [here](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNWcyZUpwSkJBMWppdWs1Qk54aHVoNmhGaXk1SE1aQTN2ZkNmSTYrdGJ2V1RHVVdjb3FGQjhOUFA0U3VlZEhNSlcxd1VRQWEwZWU3dHdVRWZHRE4wNUNFLyIsImkiOiJPb1J6a2lLbFcyZTNLUkJMIn0=) import the bookmark
 
