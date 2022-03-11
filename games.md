@@ -14,7 +14,7 @@
 
 [Bubble Bobble: Old and New (GBA)](https://simatalk.github.io/games/bubbob)
 
-[Choppy Orc](https://simatalk.github.io/choppyorc)
+[Choppy Orc](https://simatalk.github.io/games/choppyorc)
 
 [Cookie Clicker](https://simatalk.github.io/games/cookieclicker)
 
