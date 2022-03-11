@@ -14,6 +14,8 @@
 
 [Bubble Bobble: Old and New (GBA)](https://simatalk.github.io/games/bubbob)
 
+[Choppy Orc](https://simatalk.github.io/choppyorc)
+
 [Cookie Clicker](https://simatalk.github.io/games/cookieclicker)
 
 [Croket! - Yume no Banker Survival! (GBA)](https://simatalk.github.io/games/croket)
