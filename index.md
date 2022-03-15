@@ -1,6 +1,8 @@
 # ₳ⱠɆӾɆɎ ł₴ ฿ł₲ ฿Ɽ₳ł₦
 
 # Announcements
+Unblocked Youtube is working again!
+
 The proxy is up and working!
 
 Bored, Well we just added a blooket game finder! Play in some random classroom.
@@ -8,8 +10,6 @@ Bored, Well we just added a blooket game finder! Play in some random classroom.
 Discord Unblocked here: [click](https://translate.google.com/translate?sl=de&tl=en&hl=en&u=https://discord.com/app/&client=webapp)
 
 Secret Blooket Hacks, Use wisely, I GOT A PASSWORD [here](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNWcyZUpwSkJBMWppdWs1Qk54aHVoNmhGaXk1SE1aQTN2ZkNmSTYrdGJ2V1RHVVdjb3FGQjhOUFA0U3VlZEhNSlcxd1VRQWEwZWU3dHdVRWZHRE4wNUNFLyIsImkiOiJPb1J6a2lLbFcyZTNLUkJMIn0=) import the bookmark
-
-YO WE ADDED SHELL SHOCKERS, CHECK THE GAMES SECTION
 
 For ALL of the GBA games go to [https://jsemu2.github.io/gba](https://jsemu2.github.io/gba)
 
@@ -19,10 +19,7 @@ DISCLAIMER: All ads in-game are not our advertisements.
 Includes ADBLOCK and much more
 
 ## [Chat Maker](https://simatlkchattst.simatalk.repl.co/)
-## Unblocked Youtube [here](https://nghenhachay.net/)
-## WARNING: The Unblocked Youtube Site has been Hacked and contains Malicious ads, DO NOT CLICK THEM, IT IS HIGHLY RECOMMENDED THAT YOU USE OUR ADBLOCK BOOKMARKLET
-## FAQ: The Video is still blocked when I click it?
-If the video is still blocked, download it and play it from files.
+## Unblocked Youtube [here](https://www-youtube-com.translate.goog/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
 # People visited
 
