@@ -2,6 +2,8 @@
 
 ## [Home](https://simatalk.github.io)
 
+[2048](https://simatalk.github.io/games/2048)
+
 [Advanced Wars (GBA)](https://simatalk.github.io/games/advancewar)
 
 [Advanced Wars 2 (GBA)](https://simatalk.github.io/games/advancewar2)
